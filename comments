@@ -1,0 +1,8 @@
+0. Reread ASSESSMENT and alight the code (rest part especially)
++1. don't commit lib directory as you have pom and maven, Hence each developer will download them to USER/.m2 directory 
+2. add tests for PaymentService
+3. ADD README
+    - how to build
+    - configure
+    - run the application
+    - leftover, what can be refined or improved...weak points in the project...
